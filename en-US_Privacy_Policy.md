@@ -138,6 +138,7 @@ d. When there is a need to retain user information according to the provisions o
 | Amplitude | United States | Statistical analysis of user service usage | Name, email, service usage records, device information | Until the user's withdrawal or termination of the outsourcing contract |
 
 ③ In the event of any changes in the contents of the personal information processing outsourcing tasks or the subcontractors, the company will promptly disclose such changes through this Privacy Policy and obtain separate consent for the outsourcing.
+
 ### Article 7 (Procedures and Methods for Personal Information Destruction)
 
 ① The company generally destroys the user's personal information without delay once the purpose of collection and use has been achieved.
@@ -188,6 +189,7 @@ The company designates a personal information protection manager responsible for
 Except when there is user consent or as required by law, the company collects, uses, and provides personal location information within the scope specified in the terms of service. The company retains the collected personal location information for a minimum of 6 months for the following purposes:
 
 a. Service Provision and Operation: Identification of users within the subscribed service, contract fulfillment and fee settlement related to service provision, content provision, sending of invoices or billing statements, financial transaction authentication and services, collection of outstanding payments, and recording of violations of the company's terms and policies.
+
 b. New Service Development and Marketing: Development of new services, provision of customized services, provision of services and advertisements based on statistical characteristics, verification of service effectiveness, providing opportunities for participation in events, or provision of advertising information.
 
 ② Basis and Retention Period for Confirmation Data on the Collection, Use, and Provision of Personal Location Information
@@ -199,10 +201,12 @@ The company automatically records and preserves confirmation data on the collect
 In principle, personal location information is promptly destroyed when the purpose of its collection and use is achieved. The company follows the following procedure and method for the destruction of personal location information:
 
 a. Destruction Procedure:
+
    1. Personal location information is transferred to a separate database (or a locked file cabinet for paper documents) after its purpose is achieved and is stored for a certain period based on the company's internal policies and relevant laws on information protection before being destroyed.
    2. The collected personal location information is not used for any purpose other than that specified unless required by law.
 
 b. Destruction Method:
+
    1. Personal location information in paper form is destroyed through shredding or incineration.
    2. Personal location information stored in electronic files is deleted using technical methods that prevent the reproduction of records.
 
@@ -215,6 +219,7 @@ The company processes user's personal location information within the scope of t
 In the event that the company provides personal location information to a third party designated by the user, the company immediately notifies the user of the recipient, date of provision, and purpose of the provision through the communication terminal device that collected the personal location information. However, in the following cases, the notice may be provided in advance to the user through a designated communication terminal device, email address, online posting, etc.:
 
 a. When the communication terminal device that collected personal location information does not have the capability to receive text, voice, or video.
+
 b. When the user has requested to receive the notice through a communication terminal device or email address, online posting, etc., other than the communication terminal device that collected the user's personal location information.
 
 ⑥ Rights and Obligations of the Obliged Party and Method of Exercising Them
@@ -222,23 +227,12 @@ b. When the user has requested to receive the notice through a communication ter
 If a person (hereinafter referred to as the "guardian") who falls under Article 26, Paragraph 2 of the Act on the Protection of Location Information (hereinafter referred to as the "Person Responsible for Protection") agrees to the use or provision of personal location information for the protection of the life or body of a child under the age of 8, the consent of the guardian is considered to be the consent of the individual.
 
 a. Child Under the Age of 8
+
 b. Person Under Full Guardianship
+
 c. Person with a Mental Disability as defined in Article 2, Paragraph 2, Item 2 of the Act on the Welfare of Persons with Disabilities, who is considered a severely disabled person under Article
 
 In order to consent to the use or provision of personal location information for the protection of the life or body of a child under the age of 8 or other protected individuals, the person responsible for protection must attach a written document proving their status as the person responsible for protection and submit it to the company. The person responsible for protection, when consenting to the use or provision of personal location information of a child under the age of 8 or other protected individuals, retains all the rights of the user under the location service terms and conditions.
-
-⑦ ontact Information of Location Information Management Officer
-
-Users can report any complaints or inquiries related to the protection of personal location information that arise while using the service to the location information management officer or the responsible department. The company will promptly respond and provide sufficient answers to user reports.
-
-- **Location Information Management Officer**
-    - Name: WooSeok Park
-    - Position: CTO
-    - Contact: cs@hangout.im
-
-### Article 12 (Obligation to Notify)
-
-If a person responsible for protection, who wishes to consent to the use or provision of personal location information for the protection of the life or body of a child under the age of 8 or other protected individuals, they must attach a written document proving their status as the person responsible for protection and submit it to the company. The person responsible for protection, when consenting to the use or provision of personal location information of a child under the age of 8 or other protected individuals, retains all the rights of the user under the location service terms and conditions.
 
 ⑦ Contact Information for the Location Information Manager's Name, Department Responsible for Personal Location Information Protection, and Handling Complaints
 
@@ -248,6 +242,10 @@ Users can report all grievances related to the protection of personal location i
     - Name: WooSeok Park
     - Position: CTO
     - Contact: cs@hangout.im
+
+### Article 12 (Obligation to Notify)
+
+If a person responsible for protection, who wishes to consent to the use or provision of personal location information for the protection of the life or body of a child under the age of 8 or other protected individuals, they must attach a written document proving their status as the person responsible for protection and submit it to the company. The person responsible for protection, when consenting to the use or provision of personal location information of a child under the age of 8 or other protected individuals, retains all the rights of the user under the location service terms and conditions.
 
 ### Article 13 (Miscellaneous)
 
